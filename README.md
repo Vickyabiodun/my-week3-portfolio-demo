@@ -6,7 +6,7 @@ At first, I wasn't sure if I should share it as it's an old work and I can do so
 
 #Languages used.
 
-I used HTML, CSS, Bootstrap and a little bit of Js.
+I used HTML, CSS,and Bootstrap.
 
 #Project's Snippet
 
