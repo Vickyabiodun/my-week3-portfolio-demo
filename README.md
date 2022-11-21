@@ -7,4 +7,6 @@ This project was one of the first full website I worked on when starting my soft
 I used HTML, CSS, Bootstrap and a little bit of Js.
 
 #Project's Snippet
-<img src="" alt="Project Snippet">
+
+
+<img src="snippet.png" alt="Project Snippet">
