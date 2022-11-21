@@ -1,0 +1,272 @@
+@media all and (max-width: 768px) {
+ 
+			#pre, #pf1, #pf4, #pf8, #pf5, #me {
+				display:none;
+						}
+  
+			}
+			
+			
+		@font-face{
+		font-family:myfont;
+		src:url('font/Montserrat-VariableFont_wght.woff');
+		
+		}
+		div{
+		
+
+		font-family:myfont;
+		color:white;
+		}
+		
+		.first{
+		background-color:rgba(20, 18, 15, 1);
+
+		}
+		
+		#pf{
+			color: rgba(0, 126, 255, 1);
+			font-size:24px;
+			font-weight:800;
+			line-height:29px;		
+		}
+		
+		.hire{
+		background-color:rgba(0, 126, 255, 1);
+		font-weight:700;
+		font-size:18px;
+		line-height:22.4px;
+
+		}
+		
+		a{
+			color:white !important;
+			text-decoration:none;
+			font-size:16px;
+			font-weight:700;
+
+		}
+		
+		#home{
+			color:rgba(0, 126, 255, 1) !important;
+
+		}
+		
+		.intro{
+			background-image:url('images/bg1.png');
+			min-height:400px;
+		}
+		
+		.intro1{
+			background-color:rgba(0, 0, 0, 0.8);
+
+		
+		}
+		
+		#full{
+			font-size:24px;
+			font-weight:400;
+			color:white;
+			line-height:31px;
+		}
+		
+		#me{
+			font-size:52px;
+			line-height:63px;
+			font-weight:900;
+
+		}
+		
+		#mypic{
+			border:1px solid rgba(0, 126, 255, 1);
+			border-radius:50%;
+		}
+		
+		.about{
+			background-color:rgba(0, 0, 0, 0.8);
+
+		
+		}
+		
+		.aboutme{
+			color:rgba(3, 121, 242, 1);
+			font-size:32px;
+			font-weight:700;
+			line-height:39px;
+			
+
+		}
+		
+		.aboutmeline{
+			border:1px solid rgba(3, 121, 242, 1);
+			width:130px;
+		
+		}
+		
+		#abouttext{
+			font-size:16px;
+			font-weight:400;
+			line-height:20px;
+		
+		}
+		
+		.exp{
+			color:rgba(229, 229, 229, 1);
+			font-size:18px;
+			font-weight:500;
+			line-height:32px;
+		}
+		
+		#skill{
+			color:rgba(0, 126, 255, 1) !important;
+			font-size:18px;
+			line-height:32px;
+
+		}
+		
+		#line1{
+			border:1px solid rgba(3, 121, 242, 1);
+			width:90px;
+
+		}
+		
+		.line2{
+			
+		border:1px solid white !important;
+		width:30px !important;
+		}
+		
+		
+		.service{
+			background-color: rgba(0, 0, 0, 1);
+
+		}
+		#serve{
+		color: rgba(229, 229, 229, 1);
+		font-size:16px;
+		font-weight:400;
+		line-height:19.5px;
+
+		
+		}
+		
+		.service{
+		
+		
+		border:2px solid rgba(0, 126, 255, 1);
+		}
+		
+		.pfservice{
+			color:rgba(3, 121, 242, 1);
+			font-size:26px;
+			font-weight:700;
+			line-height:31px;
+		
+		}
+		.port{
+			background-color:#333333;
+		
+		}
+		#pf1{
+			background-image:url('images/porfolio1.png');
+			min-height:300px;
+			min-width:300px;
+			box-shadow: 5px 10px  rgba(0, 126, 255, 1);
+		}
+		
+		#pf2{
+			background-image:url('images/porfolio2.png');
+			min-height:300px;
+			min-width:250px;
+			box-shadow: 5px 10px  rgba(0, 126, 255, 1);
+		}
+		
+		#pf3{
+			background-image:url('images/porfolio3.png');
+			min-height:300px;
+			min-width:250px;
+			box-shadow: 5px 10px  rgba(0, 126, 255, 1);
+		}
+		
+		#pf4{
+			background-image:url('images/porfolio4.png');
+			min-height:300px;
+			min-width:250px;
+			box-shadow: 5px 10px  rgba(0, 126, 255, 1);
+		}
+		
+		#pf5{
+			background-image:url('images/porfolio1.png');
+			min-height:300px;
+			min-width:300px;
+			box-shadow: 5px 10px  rgba(0, 126, 255, 1);
+		}
+		
+		#pf6{
+			background-image:url('images/porfolio2.png');
+			min-height:300px;
+			min-width:250px;
+			box-shadow: 5px 10px  rgba(0, 126, 255, 1);
+
+		}
+		
+		#pf7{
+			background-image:url('images/porfolio3.png');
+			min-height:300px;
+			min-width:250px;
+			box-shadow: 5px 10px  rgba(0, 126, 255, 1);		
+		}
+		
+		#pf8{
+			background-image:url('images/porfolio4.png');
+			min-height:300px;
+			min-width:250px;
+			box-shadow: 5px 10px  rgba(0, 126, 255, 1);
+
+		}
+		.blog{
+			background-color:rgba(0, 0, 0, 1);
+
+		
+		}
+		
+		#blog{
+		color: rgba(229, 229, 229, 1);
+		line-height:19px;
+		}
+		
+		#blog1{
+		background-image:url('images/porfolio3.png');
+		min-height:300px;
+		min-width:250px;
+		border:1px solid rgba(0, 126, 255, 1);
+		}
+		#blog2{
+		background-image:url('images/porfolio3.png');
+		min-height:300px;
+		min-width:250px;
+		border:1px solid rgba(0, 126, 255, 1);
+		}
+		#blog3{
+		background-image:url('images/porfolio3.png');
+		min-height:300px;
+		min-width:250px;
+		border:1px solid rgba(0, 126, 255, 1);
+		}
+		
+		.contactme{
+		background-color:rgba(0, 0, 0, 0.8);
+
+		
+		}
+		.frm{
+			border:1px solid rgba(0, 126, 255, 1);
+			font-weight:600;
+			color:rgba(229, 229, 229, 1);
+			font-size:18px;
+				}
+				
+		.footer{
+			background-color:black;
+			}	
+		
